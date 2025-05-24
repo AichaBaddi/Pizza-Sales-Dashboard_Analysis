@@ -112,6 +112,6 @@ A **bar chart** of least popular pizzas by revenue, quantity, and orders.
 
 - **SQL:** Data extraction and KPI calculations.
 - **Excel:** Dashboard creation and visualizations.
-- **Power Query / Pivot Tables:** Data aggregation and cleaning (if applicable).
+- **Power Query / Pivot Tables:** Data aggregation and cleaning.
 
 
