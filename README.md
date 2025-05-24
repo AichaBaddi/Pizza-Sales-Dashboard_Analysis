@@ -15,7 +15,7 @@ This project analyzes a pizza restaurant's sales data to uncover business insigh
   - queries/
      - [sql_queries](PIZZA_SALES_SQL_QUERIES.docx)
   - visuals/
-     - [Pizza_Sales_Screenshot](Pizza_Sales_Dashboard.png)
+     - [Pizza_Sales_Dashboard](Pizza_Sales_Dashboard.png)
   - Video/
      - [Video Pizaa_Sales](Video_Pizaa_Sales.rar)
   - README.md
