@@ -4,6 +4,22 @@
 
 This project analyzes a pizza restaurant's sales data to uncover business insights and help guide decision-making. Using **SQL** for data querying and **Excel** for visualization, we explore key performance indicators (KPIs), customer behavior, and product performance to identify trends, opportunities, and areas for improvement.
 
+## Repository Structure
+
+ **Pizza-Sales-Analysis/**
+
+  - Problem Statement/
+     - [Problem Statement](Problem_Statement.pptx)  
+  - data/
+     - [pizza_sales_data](Pizza_Sales_Analysis.xlsx)
+  - queries/
+     - [sql_queries](PIZZA_SALES_SQL_QUERIES.docx)
+  - visuals/
+     - [Pizza_Sales_Screenshot](Pizza_Sales_Dashboard.png)
+  - Video/
+     - [Video Pizaa_Sales](Video_Pizaa_Sales.rar)
+  - README.md
+
 ## 🎯 Problem Statement
 
 We aim to analyze key indicators from our pizza sales dataset to evaluate business performance and visualize critical trends. The objectives include:
@@ -95,18 +111,4 @@ A **bar chart** of least popular pizzas by revenue, quantity, and orders.
 - **Excel:** Dashboard creation and visualizations.
 - **Power Query / Pivot Tables:** Data aggregation and cleaning (if applicable).
 
-## 📁 Folder Structure
 
-```plaintext
-Pizza-Sales-Analysis/
-├── Problem Statement/
-│   └── [Problem Statement](Problem Statement.pptx)
-├── data/
-│   └── [pizza_sales_data](Pizza Sales Analysis.xlsx)
-├── queries/
-│   └── [sql_queries](PIZZA_SALES_SQL_QUERIES.docx)
-├── visuals/
-│   └──[Pizza_Sales_Screenshot](Pizza_Sales_Dashboard.png)
-├── Video/
-│   └── [Video Pizaa_Sales](Video Pizaa_Sales.rar)
-├── README.md
