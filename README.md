@@ -20,6 +20,9 @@ This project analyzes a pizza restaurant's sales data to uncover business insigh
      - [Video Pizaa_Sales](Video_Pizaa_Sales.rar)
   - README.md
 
+    
+![Pizza_Sales_Dashboard](https://github.com/user-attachments/assets/5a88b49b-811a-40b8-8950-5bb97823437c)
+
 ## 🎯 Problem Statement
 
 We aim to analyze key indicators from our pizza sales dataset to evaluate business performance and visualize critical trends. The objectives include:
